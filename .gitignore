@@ -1,0 +1,6 @@
+# API keys
+APIkeys.py
+
+# IDE / tool config
+.claude/
+.vscode/
